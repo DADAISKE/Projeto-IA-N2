@@ -34,9 +34,9 @@ German Credit Data, versão simplificada do [Statlog (German Credit Data)](https
 │   ├── german_credit_data.csv           # dataset
 │   └── dataset.md                       # descrição do dataset
 ├── notebooks/
-│   ├── 01_analise_exploratoria.ipynb    # análise exploratória (N1)
-│   └── 02_modelagem_resultados.ipynb    # treino, avaliação, SHAP e equidade (N2)
-└── resultados/                          # figuras e tabelas geradas pelos notebooks
+   ├── 01_analise_exploratoria.ipynb    # análise exploratória (N1)
+   └── 02_modelagem_resultados.ipynb    # treino, avaliação, SHAP e equidade (N2)
+
 ```
 
 ## Como executar
