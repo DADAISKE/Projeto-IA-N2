@@ -28,7 +28,6 @@ German Credit Data, versão simplificada do [Statlog (German Credit Data)](https
 ├── requirements.txt
 ├── artigo/
 │   ├── artigo_final_credscoreai.pdf     # artigo final (N2)
-│   └── artigo_parcial_credscoreai.pdf   # artigo parcial (N1)
 ├── dados/
 │   ├── german_credit_data.csv           # dataset
 │   └── dataset.md                       # descrição do dataset
