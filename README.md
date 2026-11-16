@@ -10,7 +10,6 @@ Professor: Prof. Dr. Ivan Carlos Alcântara de Oliveira
 | Rodrigo Daiske Uehara | 10440295 | 10440295@mackenzista.com.br |
 
 - Artigo final: [`artigo/artigo_final_credscoreai.pdf`](artigo/artigo_final_credscoreai.pdf)
-- Vídeo de apresentação: _[colocar aqui o link do YouTube]_
 
 ## Sobre o projeto
 
